@@ -1,4 +1,4 @@
-# hellow_friend
+# webRTC_flutter
 
 A sample flutter project to test WebRTC.
 
